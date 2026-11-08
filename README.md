@@ -8,7 +8,7 @@ A bouquet of Oriental lilies, grown entirely from code. No photos, no 3D models,
 
 ## 🎬 What You Get
 
-A 13-second vertical video (1080 × 1920, 30 fps) where the bouquet builds itself from a glowing wireframe into a fully lit, blooming flower while the camera slowly rises and circles around it. It's made for Reels, Shorts and TikTok.
+A 13-second vertical video (1080 × 1920, 30 fps) where the bouquet builds itself from a glowing wireframe into a fully lit, blooming flower while the camera slowly rises and circles around it. 
 
 ## ✨ Highlights
 
